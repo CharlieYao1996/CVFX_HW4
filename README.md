@@ -1,8 +1,8 @@
 # CVFX_HW4
   # 1.sequence of moving-forward images in campus
   >><img width="250" height="250" src="IMG_20190429_181209.jpg"/>        |<img width="250" height="250" src="IMG_20190429_181214.jpg"/>        |<img width="250" height="250" src="IMG_20190429_181219.jpg"/> |
-  >><img width="250" height="250" src="IMG_20190429_181224.jpg"/> <img width="250" height="250" src="IMG_20190429_181228.jpg"/>
-  <img width="250" height="250" src="IMG_20190429_181233.jpg"/>
+  >><img width="250" height="250" src="IMG_20190429_181224.jpg"/>        |<img width="250" height="250" src="IMG_20190429_181228.jpg"/>
+   |<img width="250" height="250" src="IMG_20190429_181233.jpg"/> |
   <br>
   以上我們在台達館附近的橋上拍的五張連續照片。
   <br>
