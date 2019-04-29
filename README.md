@@ -4,7 +4,7 @@
   >><img width="250" height="250" src="IMG_20190429_181224.jpg"/>        |<img width="250" height="250" src="IMG_20190429_181228.jpg"/>
    |<img width="250" height="250" src="IMG_20190429_181233.jpg"/> |
   <br>
-  以上我們在台達館附近的橋上拍的五張連續照片。
+  以上我們在梅園拍的六張連續照片。
   <br>
   
   # 2.feature extraction and matching results
