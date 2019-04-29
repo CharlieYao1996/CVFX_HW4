@@ -41,9 +41,9 @@
 | Scale       | Best          |  good   | command |
 | Illumination|good           |   Best  | good    |
 
-| Tables        | Are           | Cool  |Cool  |
+| Tables        | ORB           | SIFT  |SURF  |
 | :-----------: |:-------------:| :----:|:----:|
-| 第三欄        | 靠右對齊      | $1600 | $1600 |
-| 第二欄        | 置中對齊      |   $12 |  $12 |
-| 斑馬條紋      | 是整齊的      |    $1 | $1 |
+| Time         | 靠右對齊      | $1600 | $1600 |
+| Scale        | 置中對齊      |   $12 |  $12 |
+| Illumination      | 是整齊的      |    $1 | $1 |
 
