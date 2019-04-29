@@ -30,16 +30,12 @@
   
   # 5.add some image processing to enhance effect
   >>![](new_out.gif)
+ >
 為了改善上述3.的缺點，我們在照片的邊角加上了bluring、feathering等效果，讓圖片的銜接看起來較為自然且平順，但由於圖片原始檔較大，產生的檔案也太大導致於無法直接上傳至Github，所以上圖是我們經過壓縮後的GIF檔，我們另外放了原始大檔案的GIF檔的版本在[這裡](  https://drive.google.com/open?id=1sLpkx2ouSv--P3yEZ7bUzH0dNpYyiIZL) ，但其實在銜接的過程中還是可以看出很多不自然的地方，我們認為這應該是跟拍照時的穩定角度有關，也許之後測試新的檔案可以想辦法利用穩定器等輔助工具來幫助我們更好的完成zoom effect的進行。
 
   # Conclusion
   
  在進行過這次的image alignment還有zooming effect的製作後可以簡單的歸納出一些方法的優缺點:
-|             | ORB           | SIFT    | SURF    |
-| :---------: |:-------------:| :-----: | :-----: |
-| Time        | Best          | command |good     |
-| Scale       | Best          |  good   | command |
-| Illumination| good           |   Best  | good    |
 
 | Tables        | ORB           | SIFT  |SURF  |
 | :-----------: |:-------------:| :----:|:----:|
