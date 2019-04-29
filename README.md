@@ -8,8 +8,9 @@
   <br>
   
   # 2.feature extraction and matching results
-  >><img width="500" height="250" src="1_2.png"/> <img width="500" height="250" src="2_3.png"/> 
-  >><img width="500" height="250" src="3_4.png"/> <img width="500" height="250" src="4_5.png"/>  
-  >>接著我們用跟助教相同的code將圖片一二，圖片二三，圖片三四，圖片四五 做feature extraction，feature extractor是用orb，可以發現四張圖片都是只抓到右上角的feature。
+  >><img width="500" height="250" src="out1.jpg"/> <img width="500" height="250" src="out2.jpg"/> 
+  >><img width="500" height="250" src="out3.jpg"/> <img width="500" height="250" src="out4.jpg"/>
+  >><img width="500" height="250" src="out5.jpg"/>
+  >>接著我們用跟助教相同的code將圖片一二，圖片二三，圖片三四，圖片四五，圖片五六 做feature extraction，feature extractor是用orb。
   # 3.image alignment and generate infinite zooming effect
   # 4.add some image processing to enhance effect
