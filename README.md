@@ -39,11 +39,11 @@
 | :---------: |:-------------:| :-----: | :-----: |
 | Time        | Best          | command |good     |
 | Scale       | Best          |  good   | command |
-| Illumination|good           |   Best  | good    |
+| Illumination| good           |   Best  | good    |
 
 | Tables        | ORB           | SIFT  |SURF  |
 | :-----------: |:-------------:| :----:|:----:|
-| Time         | 靠右對齊      | $1600 | $1600 |
-| Scale        | 置中對齊      |   $12 |  $12 |
-| Illumination      | 是整齊的      |    $1 | $1 |
+| Time         | Best      | command | good |
+| Scale        | Best      |   good |  command |
+| Illumination      | good      |    Best | good |
 
