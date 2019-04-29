@@ -15,7 +15,7 @@
 
   
   # 3.image alignment and generate infinite zooming effect
-  
+  >>![](bad1.gif)
   # 4.implement different feature extrators
   >## SIFT
   >><img width="1000" height="500" src="sift5-6.jpg"/>
