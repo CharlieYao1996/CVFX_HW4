@@ -11,7 +11,7 @@
   >><img width="1000" height="500" src="out3.jpg"/> <img width="1000" height="500" src="out4.jpg"/>
   >><img width="1000" height="500" src="out5.jpg"/>
   > 
-  >### 最初我們用跟助教相同的code做feature extraction，feature extractor是用orb，分別對圖片一二，圖片二三，圖片三四，圖片四五，圖片五六來做。
+  最初我們用跟助教相同的code做feature extraction，feature extractor是用orb，分別做出了五張對應圖，但可能是由於照片色調較暗的關係，對應的線條較不明顯。
 
   
   # 3.image alignment and generate infinite zooming effect
