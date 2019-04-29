@@ -35,9 +35,9 @@
   # Conclusion
   
  在進行過這次的image alignment還有zooming effect的製作後可以簡單的歸納出一些方法的優缺點:
-|             | ORB           | SIFT | SURF  |
-| :-------------: |:-------------:| :-----:| :-----:|
-| Time       | Best      | command |good  |
-| Scale        | Best     |  good | command  |
-| Illumination      |good      |   Best | good  |
+|             | ORB           | SIFT    | SURF    |
+| :---------: |:-------------:| :-----: | :-----: |
+| Time        | Best          | command |good     |
+| Scale       | Best          |  good   | command |
+| Illumination|good           |   Best  | good    |
 
