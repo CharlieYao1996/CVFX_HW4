@@ -9,6 +9,6 @@
   # 2.feature extraction and matching results
   >><img width="500" height="250" src="1_2.png"/> <img width="500" height="250" src="2_3.png"/> 
   >><img width="500" height="250" src="3_4.png"/> <img width="500" height="250" src="4_5.png"/>  
-  >>接著我們用跟助教相同的code將圖片一二，圖片二三，圖片三四，圖片四五 做feature extraction，可以看出or 的feature extractor效果不是很理想。
+  >>接著我們用跟助教相同的code將圖片一二，圖片二三，圖片三四，圖片四五 做feature extraction，feature extractor是用orb，可以發現四張圖片都是只抓到右上角的feature。
   # 3.image alignment and generate infinite zooming effect
   # 4.add some image processing to enhance effect
