@@ -12,12 +12,17 @@
   >><img width="500" height="250" src="out5.jpg"/>
   > 
   >### 最初我們用跟助教相同的code將圖片一二，圖片二三，圖片三四，圖片四五，圖片五六 做feature extraction，feature extractor是用orb。
+
+  
+  # 3.image alignment and generate infinite zooming effect
+  
+  # 4.implement different feature extrators
   >## SIFT
   >><img width="500" height="250" src="sift5-6.jpg"/>
-  >### 之後我們做了圖片五到六sift
+  >### 之後我們做了圖片五到六sift，
   >## SURF
   >><img width="500" height="250" src="surf1-2.jpg"/>
-  >### 最後圖片一到二的surf
-
-  # 3.image alignment and generate infinite zooming effect
-  # 4.add some image processing to enhance effect
+  >### 最後圖片一到二的surf，  
+  
+  # 5.add some image processing to enhance effect
+  >>![](new_out.gif)
