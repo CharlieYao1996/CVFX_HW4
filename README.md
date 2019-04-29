@@ -14,7 +14,7 @@
   <br>
   接著我們用跟助教相同的code將圖片一二，圖片二三，圖片三四，圖片四五，圖片五六 做feature extraction，feature extractor是用orb。
   <br>
-
+  圖片五到六sift
 
   # 3.image alignment and generate infinite zooming effect
   # 4.add some image processing to enhance effect
