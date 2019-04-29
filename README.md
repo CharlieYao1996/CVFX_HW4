@@ -7,7 +7,7 @@
   
   # 2.feature extraction and matching results
   >## orb
-  >><img width="500" height="250" src="out1.jpg"/> <img width="500" height="250" src="out2.jpg"/> 
+  >><img width="1000" height="500" src="out1.jpg"/> <img width="500" height="250" src="out2.jpg"/> 
   >><img width="500" height="250" src="out3.jpg"/> <img width="500" height="250" src="out4.jpg"/>
   >><img width="500" height="250" src="out5.jpg"/>
   > 
