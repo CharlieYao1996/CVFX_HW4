@@ -1,6 +1,6 @@
 # CVFX_HW4
   # 1.sequence of moving-forward images in campus
-  >><img width="250" height="250" src="IMG_20190429_181209.jpg"/>        |<img width="250" height="250" src="IMG_20190429_181214.jpg"/>        |<img width="250" height="250" src="IMG_20190429_181219.jpg"/> |
+  >><img width="250" height="250" src="IMG_20190429_181209.jpg"/>        |<img width="250" height="250" src="IMG_20190429_181214.jpg"/>        |<img width="250" height="250" src="IMG_20190429_181219.jpg"/> 
   >><img width="250" height="250" src="IMG_20190429_181224.jpg"/>        |<img width="250" height="250" src="IMG_20190429_181228.jpg"/>
    |<img width="250" height="250" src="IMG_20190429_181233.jpg"/> 
   >### 以上是我們在梅園拍的六張連續照片。
@@ -19,7 +19,7 @@
   # 4.implement different feature extrators
   >## SIFT
   >><img width="1000" height="500" src="sift5-6.jpg"/>
-  >### 之後我們做了圖片五到六sift，sift需要跑比較久，但是效果較佳。
+  >### 之後我們做了圖片五到六sift，雖然sift需要跑比較久，但是很明顯地它的效果較佳。
   >## SURF
   >><img width="1000" height="500" src="surf1-2.jpg"/>
   >### 最後圖片一到二的surf，  
