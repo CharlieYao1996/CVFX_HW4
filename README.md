@@ -1,6 +1,9 @@
 # CVFX_HW4
   # 1.sequence of moving-forward images in campus
-  >><img width="250" height="250" src="test1.jpg"/> <img width="250" height="250" src="test2.jpg"/> <img width="250" height="250" src="test3.jpg"/>
+    | pic(1)       | pic(2)          | pic(3)   |
+  | :-------------: |:-------------:| :-----:|
+
+  | <img width="250" height="250" src="test1.jpg"/>        |<img width="250" height="250" src="test2.jpg"/>        |<img width="250" height="250" src="test3.jpg"/> |
   >><img width="250" height="250" src="test4.jpg"/> <img width="250" height="250" src="test5.jpg"/>
 
 
