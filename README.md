@@ -1,8 +1,8 @@
 # CVFX_HW4
   # 1.sequence of moving-forward images in campus
   >><img width="250" height="250" src="IMG_20190429_181209.jpg"/>        <img width="250" height="250" src="IMG_20190429_181214.jpg"/>        <img width="250" height="250" src="IMG_20190429_181219.jpg"/> 
-  >><img width="250" height="250" src="IMG_20190429_181224.jpg"/>        <img width="250" height="250" src="IMG_20190429_181228.jpg"/>
-   <img width="250" height="250" src="IMG_20190429_181233.jpg"/> 
+  >><img width="250" height="250" src="IMG_20190429_181224.jpg"/>       <img width="250" height="250" src="IMG_20190429_181228.jpg"/>
+  <img width="250" height="250" src="IMG_20190429_181233.jpg"/> 
   >### 以上是我們在梅園拍的六張連續照片。
   
   # 2.feature extraction and matching results
